@@ -1,0 +1,29 @@
+# Quartus auto-generated folders
+db/
+incremental_db/
+output_files/
+simulation/
+greybox_tmp/
+tmp/
+
+# Quartus project backup / cache files
+*.qws
+*.smsg
+*.rpt
+*.summary
+*.bak
+*.qarlog
+*.qdf
+*.jic
+*.pof
+*.sof
+
+# ModelSim / simulation generated files
+*.vcd
+work/
+
+# OS / IDE
+*.swp
+*.log
+*.DS_Store
+Thumbs.db
