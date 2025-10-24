@@ -27,3 +27,8 @@ work/
 *.log
 *.DS_Store
 Thumbs.db
+
+
+# Tools
+open_vscode.bat
+auto_git_push.bat
